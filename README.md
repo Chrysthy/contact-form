@@ -23,7 +23,7 @@ Contact Form 📝</h1>
 <br>
 
 <p align="center">
-  <img src=".github/foto-do-projeto.png" alt="Gif do Projeto"  width="60%">
+  <img src=".github/foto-do-projeto.png" alt="Gif do Projeto"  width="90%">
 </p>
 
 
