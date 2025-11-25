@@ -41,7 +41,7 @@ Contact Form 📝</h1>
 
 ## 💻 Project
 
-
+A clean and responsive contact form built with HTML, CSS, and JavaScript. The form includes real-time validation, custom error messages, and clear visual feedback to guide the user while filling in the fields. Its lightweight structure and modern layout make it easy to integrate into different websites, ensuring a smooth and user-friendly experience across devices.
 
 <br>
 
