@@ -3,6 +3,7 @@
 Contact Form 📝</h1>
 
 <p align="center">  
+  <a href="#-live-demo">Live Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,6 +18,21 @@ Contact Form 📝</h1>
 
 
 <br>
+
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://chrysthy.github.io/contact-form/">
+    <img src="https://img.shields.io/badge/Live%20Demo-GitHub-sucess?labelColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Tip: Use right-click → “Open in new tab”.</sub>
+</p>
+
+<br>
+
 
 ## 📸 Screenshots
 
